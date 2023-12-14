@@ -7,5 +7,5 @@ int main(){
     else{
         printf("偶數\n");
     }
-    return 0
+    return 0;
 }
