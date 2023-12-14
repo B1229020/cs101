@@ -13,6 +13,6 @@ int main(){
         else{
             printf("%d元", 70+(n/100)*10);
         }
-        return 0
+        return 0;
     }
 }
