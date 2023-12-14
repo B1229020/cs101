@@ -16,5 +16,5 @@ int main(){
             printf("%d元", i);
         }
     }
-    return 0
+    return 0;
 }
