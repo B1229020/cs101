@@ -5,7 +5,7 @@ int main(){
         printf("否\n");
     }
     else{
-        printf("是\n")
+        printf("是\n");
     }
     return 0;
 }
